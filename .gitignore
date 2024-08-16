@@ -1,0 +1,17 @@
+VulkanStuff.vcxproj
+VulkanStuff.vcxproj.filters
+VulkanStuff.vcxproj.user
+x64/Debug/vc143.idb
+x64/Debug/vc143.pdb
+x64/Debug/VulkanStuff.exe.recipe
+x64/Debug/VulkanStuff.ilk
+x64/Debug/VulkanStuff.log
+x64/Debug/VulkanStuff.tlog/CL.command.1.tlog
+x64/Debug/VulkanStuff.tlog/Cl.items.tlog
+x64/Debug/VulkanStuff.tlog/CL.read.1.tlog
+x64/Debug/VulkanStuff.tlog/CL.write.1.tlog
+x64/Debug/VulkanStuff.tlog/link.command.1.tlog
+x64/Debug/VulkanStuff.tlog/link.read.1.tlog
+x64/Debug/VulkanStuff.tlog/link.secondary.1.tlog
+x64/Debug/VulkanStuff.tlog/link.write.1.tlog
+x64/Debug/VulkanStuff.tlog/VulkanStuff.lastbuildstate
